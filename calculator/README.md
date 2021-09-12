@@ -4,7 +4,7 @@
 - To understand a new programming language.
 - Wanted to know how it works because the StackOverflow survey in 2021 showed React is the most wanted and desired by one in four developers.
 
-[Stackoverflow survey](https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-web-frameworks) to view it in the browser.
+[Stackoverflow survey](https://insights.stackoverflow.com/survey/2021#most-loved-dreaded-and-wanted-webframe-want) to view it in the browser.
 
 
 ## What is React?

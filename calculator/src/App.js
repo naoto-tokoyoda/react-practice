@@ -1,6 +1,9 @@
+//Hook uses useState() functional component 
+//for setting and retrieving state.
 import React, { useState } from 'react';
 
 const App = () => {
+  //declare a new state variable which is called result
   const [result, setResult] = useState("");
 
   const handleClick = (e) => {
